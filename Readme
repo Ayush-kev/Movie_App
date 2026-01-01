@@ -1,4 +1,5 @@
-Movie Explorer -
+Movie Explorer - https://ayush-kev.github.io/Movie_App/
+
 Movie Explorer is a modern web application that allows users to discover and search for movies in real-time. The app fetches data from a public movie database API and displays movies with their poster, rating, and a short overview. The project is fully responsive, interactive, and designed with a clean, professional UI.
 
 Features
