@@ -1,0 +1,35 @@
+Movie Explorer -
+Movie Explorer is a modern web application that allows users to discover and search for movies in real-time. The app fetches data from a public movie database API and displays movies with their poster, rating, and a short overview. The project is fully responsive, interactive, and designed with a clean, professional UI.
+
+Features
+Displays popular movies on page load
+Real-time search functionality
+Color-coded movie ratings for quick visualization
+Responsive grid layout that works on all screen sizes
+Smooth hover effects on movie cards
+Handles errors gracefully if API fails or no results are found
+
+Technologies Used-
+This project is built using:
+HTML5 for the page structure
+CSS3 for styling and responsive design
+JavaScript for DOM manipulation, API calls, and interactivity
+Fetch API to get movie data from The Movie Database (TMDB) API
+
+Project Structure - 
+The project files are organized in a clean folder structure:
+index.html - the main HTML file
+style.css - contains all styles for layout, cards, and responsive design
+script.js - handles fetching movie data, rendering movie cards, and search functionality
+
+How It Works - 
+When the page loads, the app fetches the most popular movies from the TMDB API and displays them in a responsive grid. Each movie card shows the poster image, title, rating, and a brief overview. Ratings are color-coded to give users a quick idea of how good the movie is. Users can search for specific movies using the search bar. If no movies are found, the app displays a friendly message.
+
+Setup Instructions
+
+Clone or download the project folder.
+Replace the placeholder API key in script.js with your own TMDB API key.
+Open index.html in a browser to see the app in action.
+
+Why This Project Is Useful ?
+This project demonstrates the ability to integrate APIs, manipulate the DOM dynamically, and build responsive, user-friendly interfaces. It is suitable for showcasing front-end development skills in a portfolio or for practice in JavaScript and web development.
